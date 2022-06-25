@@ -17,10 +17,10 @@ https://nginx.org/ru/docs/
 2. [app2](http://143.198.70.213:7777/docs/)
 
 ### Скриншот app1
-![app1](https://user-images.githubusercontent.com/91362737/175779183-a968079f-504b-4ef9-96d9-cde8f5c5fa23.png)
+![image](https://user-images.githubusercontent.com/91362737/175779440-5ed8b3b7-23a9-40c3-8cc0-a154dc70ca1d.png)
 
 ### Скриншот app2
-![app2](https://user-images.githubusercontent.com/91362737/175779188-0deb5ade-00b6-4f86-bb11-ed197a91c9a0.png)
+![image](https://user-images.githubusercontent.com/91362737/175779462-d561a955-0d9c-41c9-b7d4-951c21008455.png)
 
 #### Команды перезапуска nginx
 `systemctl restart nginx`
